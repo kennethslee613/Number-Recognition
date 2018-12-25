@@ -4,7 +4,7 @@ Neural network to recognize digits 0-4
 ## To Install and Run
 Install:
 ```
-git clone 
+git clone https://github.com/kennethslee613/Number-Recognition.git
 cd Number-Recognition
 ```
 Create python3 virtual environment:
