@@ -1,5 +1,6 @@
 # Number-Recognition
-Neural network to recognize digits 0-4
+Neural network to recognize digits 0-4 given a 28x28 pixel image.
+Images and expected outputs for both training and testing are given.
 
 ## To Install and Run
 Install:
